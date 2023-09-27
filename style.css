@@ -45,11 +45,15 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-family: bold;
     font-size: 40px;
+    
 }
+
 .sonline{
     color: gray;
     font-size: 15px;
 }
-.playstore{
+
+.contents{
     display: flex;
+    justify-content: space-evenly;
 }
